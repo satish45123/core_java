@@ -46,6 +46,13 @@ public class PostHandler extends HttpServlet {
         }
 
 }
+
+
+
+
+Index.html
+
+
 <!DOCTYPE html>
 <html>
 <head>
